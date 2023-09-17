@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FBC422&height=140&section=header&descSize=28&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wonyoung's%20GitHub&descAlignY=51&descAlign=62)
 ### :raising_hand: LEE WONYOUNG :raising_hand: 
 
 ### 💪 Skills
